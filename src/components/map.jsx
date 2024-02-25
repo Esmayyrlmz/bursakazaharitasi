@@ -12,7 +12,7 @@ export default function Map({data, year}) {
 
     const {isLoaded} = useJsApiLoader({
         id: 'google-map-script',
-        googleMapsApiKey: "AIzaSyDS0Au2XauhZB2yyWVhqmKyJR-lei0CuV4"
+        googleMapsApiKey: "AIzaSyBZrJYegC6skOMF7fA8zAPTAQW5U-TEKQM"
     });
 
     const onLoad = useCallback(function callback(map) {
