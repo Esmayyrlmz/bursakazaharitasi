@@ -10,3 +10,6 @@ Kazaların haritasını çıkarmak için, Bursa'da meydana gelen kazaların veri
 Bu veri setlerini kullanarak, kazaların meydana geldiği yerlerin haritasını çıkarabiliriz. Bu harita, Bursa'da meydana gelen kazaların yoğun olduğu bölgeleri gösterir. Bu sayede, trafik kazalarının yoğun olduğu bölgelerde trafik güvenliği önlemlerinin alınması için çalışmalar yapılabilir.
 
 Proje Linki: bursakazaharitasi.vercel.app
+
+
+Not: Sitede bulunan harita sadece localhost üzerinde çalışmaktadır. Proje dosyalarını indirip, kendi bilgisayarınızda çalıştırarak haritayı görebilirsiniz.
